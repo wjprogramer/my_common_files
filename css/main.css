@@ -1,0 +1,67 @@
+* {
+  font-family: "Helvetica", "Arial","LiHei Pro","黑體-繁","微軟正黑體", sans-serif;
+}
+
+#main-panel {
+  min-height: 100vh;
+  padding: 16px 32px;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+h2 {
+  color: #006199;
+  margin: 16px 0px;
+}
+
+h2:before {
+  /* color: #006199; */
+  content: '➤ ';
+}
+
+h3 {
+  color: #3f51b5;
+  border-bottom: 1px solid #006199;
+}
+
+h3:before {
+  /* color: #006199; */
+  content: '♞ ';
+}
+
+h4 {
+  color: #2196F3;
+}
+
+h4:before {
+  color: orange;
+  content: ' ♔ ';
+}
+
+table.dataintable {
+  margin-top: 15px;
+  border-collapse: collapse;
+  border: 1px solid #aaa;
+  width: 100%;
+}
+
+table.dataintable tr:nth-child(odd) {
+  background-color: #F5F5F5;
+}
+
+table.dataintable th {
+  vertical-align: baseline;
+  padding: 10px 10px 10px 10px;
+  background-color: #3F3F3F;
+  border: 1px solid #3F3F3F;
+  text-align: left;
+  color: #fff;
+}
+
+table.dataintable td {
+  vertical-align: text-top;
+  padding: 9px 9px 9px 9px;
+  border: 1px solid #aaa;
+}
