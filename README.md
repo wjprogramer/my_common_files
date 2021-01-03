@@ -1,7 +1,7 @@
-<br/>
+# 生產力 UP
 
 <p align="center">
-	<b style="font-size: 100px">生產力UP</b>
+	<img src="assets/images/reform%20way%20of%20working.jpg">
 </p>
 
 <p align="center">
