@@ -1,3 +1,7 @@
+:root {
+  --color-markdown-code-bg: rgba(27, 31, 35, 0.05);
+}
+
 * {
   font-family: "Helvetica", "Arial","LiHei Pro","黑體-繁","微軟正黑體", sans-serif;
 }
@@ -64,4 +68,12 @@ table.dataintable td {
   vertical-align: text-top;
   padding: 9px 9px 9px 9px;
   border: 1px solid #aaa;
+}
+
+code {    
+  padding: .2em .4em;
+  margin: 0;
+  font-size: 85%;
+  background-color: var(--color-markdown-code-bg);
+  border-radius: 6px;
 }

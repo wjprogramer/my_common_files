@@ -6,6 +6,12 @@
 
 提升效率、生產力的「檔案」們
 
+## Overview
+
+- [Gitmoji](Gitmoji.html) - `Gitmoji.html`
+  瀏覽並複製 Gitmoji
+- ...
+
 ## Gitmoji
 
 修改自其他人的 Guide
@@ -15,6 +21,10 @@
 - 點「整列」可直接複製，方便使用
 
 ![](screenshots/gitmoji.PNG)
+
+## TODO
+
+- ...
 
 ## 相依函式庫
 
