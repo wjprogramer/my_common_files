@@ -1,10 +1,16 @@
-# 生產力UP
+<br/>
 
-<a href="https://gitmoji.dev">
-  <img src="https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg?style=flat-square" alt="Gitmoji">
-</a>
+<p align="center">
+	<b style="font-size: 100px">生產力UP</b>
+</p>
 
-提升效率、生產力的「檔案」們
+<p align="center">
+  <a href="https://gitmoji.dev">
+    <img src="https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg?style=flat-square" alt="Gitmoji">
+  </a>
+  <br/>
+  提升效率、生產力的「檔案」們
+</p>
 
 ## Overview
 
